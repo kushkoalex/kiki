@@ -1,0 +1,23 @@
+.menu
+{
+    position: absolute;
+    text-transform: uppercase;
+    color: #3fcff6;
+    font-family: 'PT Sans Narrow', serif;
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin-top: 87px;
+    margin-left: 300px;
+}
+
+.menu ul li
+{
+    list-style: none;
+    display: inline-block;
+    margin: 0 60px;
+}
+
+.menu a
+{
+    color: inherit;
+}

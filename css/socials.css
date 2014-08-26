@@ -1,0 +1,25 @@
+.social
+{
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    margin-left: 1201px;
+}
+
+.social.instagram
+{
+    margin-top: 24px;
+    background: url("../img/instagram.png");
+}
+
+.social.fb
+{
+    margin-top: 58px;
+    background: url("../img/fb.png");
+}
+.social a
+{
+    width: inherit;
+    height: inherit;
+    display: block;
+}
