@@ -2,7 +2,7 @@
 {
     position: absolute;
     text-transform: uppercase;
-    color: #3fcff6;
+
     font-family: 'PT Sans Narrow', serif;
     font-size: 12px;
     letter-spacing: 1px;
@@ -15,9 +15,11 @@
     list-style: none;
     display: inline-block;
     margin: 0 60px;
+
+    color: #96c11f;
 }
 
 .menu a
 {
-    color: inherit;
+    color: #3fcff6;
 }

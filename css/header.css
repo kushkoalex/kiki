@@ -29,3 +29,8 @@
     margin-top: 63px;
 }
 
+.header
+{
+    position: relative;
+    height: 160px;
+}
